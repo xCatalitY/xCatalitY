@@ -3,7 +3,7 @@
 🏗️ **Software Architect @ Deutsche Telekom IT** — event-driven systems on [pubsub-horizon](https://github.com/telekom/pubsub-horizon)<br>
 🤖 **Nights & weekends:** building tooling around the **Claude Code / Codex / Devin** ecosystem<br>
 🔧 **Fullstack by instinct:** React & Next.js on the front · Python, Rust, Go on the back · Postgres + Prisma in the middle<br>
-🕹️ **Side quest:** Assembly & Frida for mobile-game reverse engineering → [`bsd`](https://github.com/xCatalitY/bsd)<br>
+🕹️ **Side quest:** Assembly & Frida for mobile-game reverse engineering<br>
 🌍 Based in **Bonn, Germany** 🇩🇪 · always chasing a cleaner abstraction
 
 
