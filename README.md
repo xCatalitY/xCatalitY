@@ -9,9 +9,9 @@
 
 # 🚀 Currently Shipping:
 - [**optimistic-news.com**](https://optimistic-news.com/) — a feel-good news feed on Wasp / open-saas (Postgres FTS, dedup, RSS publishing)
+- [**JobTool**](https://github.com/JobTool) — meta job-search aggregator with AI auto-apply (resume + cover-letter generation, saved searches, AI enrichment) · *in build*
 - [`devin-review-cli`](https://github.com/xCatalitY/devin-review-cli) — pull unresolved bugs out of Devin AI code reviews (`bunx devin-bugs`)
 - [`open-ralph-wiggum`](https://github.com/xCatalitY/open-ralph-wiggum) — type `ralph "prompt"` → looping agent runner for Claude Code / Codex / OpenCode
-- [`claude-code-patcher`](https://github.com/xCatalitY/claude-code-patcher) — patch & extend the Claude Code CLI
 - [`codex-lb`](https://github.com/Soju06/codex-lb) — multi-account Codex/ChatGPT load balancer & proxy (contributor)
 
 
