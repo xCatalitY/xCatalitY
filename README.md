@@ -8,6 +8,7 @@
 
 
 # 🚀 Currently Shipping:
+- [**optimistic-news.com**](https://optimistic-news.com/) — a feel-good news feed on Wasp / open-saas (Postgres FTS, dedup, RSS publishing)
 - [`devin-review-cli`](https://github.com/xCatalitY/devin-review-cli) — pull unresolved bugs out of Devin AI code reviews (`bunx devin-bugs`)
 - [`open-ralph-wiggum`](https://github.com/xCatalitY/open-ralph-wiggum) — type `ralph "prompt"` → looping agent runner for Claude Code / Codex / OpenCode
 - [`claude-code-patcher`](https://github.com/xCatalitY/claude-code-patcher) — patch & extend the Claude Code CLI
@@ -21,7 +22,7 @@
 # 📊 GitHub Stats:
 ![](https://xcatality-grs.vercel.app/api?username=xCatalitY&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
 ![](https://xcatality-streak-stats.vercel.app/?user=xCatalitY&theme=tokyonight&hide_border=false)<br/>
-![](https://xcatality-grs.vercel.app/api/top-langs/?username=xCatalitY&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&exclude_repo=my-claude-code,claude-code)
+![](https://xcatality-grs.vercel.app/api/top-langs/?username=xCatalitY&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&exclude_repo=my-claude-code,claude-code,TelekomQueryBot)
 
 ## 🏆 GitHub Trophies
 ![](https://xcatality-trophy.vercel.app/?username=xCatalitY&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
